@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Bds03Application<bds03>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.devsuperior.bds03.Bds03Application",
+            "projectName": "bds03",
+            "args": ""
+        }
+    ]
+}
